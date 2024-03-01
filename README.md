@@ -1,4 +1,4 @@
-- 👋 Hi there, I'm Max Rios Carballo 👋
+👋 Hi there, I'm Max Rios Carballo 👋
 
 I'm a passionate and results-driven Mechanical Engineering graduate with a strong foundation in fabrication, production management, and 3D printing. My hands-on experience, coupled with academic knowledge, equips me with the skills to contribute effectively to engineering projects.
 
